@@ -1,0 +1,2 @@
+# Static hosts should serve each route's index.html directory entry.
+# Preserve unknown paths as not-found responses where the host supports it.
